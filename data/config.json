@@ -15,7 +15,7 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "style": "link",
-                "has_icon": true
+                "has_icon": false
             },
             {
                 "label": "About",
